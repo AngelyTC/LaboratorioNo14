@@ -1,0 +1,12 @@
+[
+    {
+        "CodigoP": "2",
+        
+        "NombreP": "Jamon",
+        "DescripcionP": "crudo",
+        "PrecioCompraP": 40,
+        "PrecioVentaP": 60,
+        "FechaVencimientoP": "2022-04-25T00:00:00",
+        "UnidadMedidaP": "kg"
+    }
+]
